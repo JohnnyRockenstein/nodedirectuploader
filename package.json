@@ -1,0 +1,24 @@
+{
+  "name": "nodedirectuploader",
+  "version": "0.0.1",
+  "description": "Image Uploader",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "2.x",
+    "ejs": "2.x",
+    "express": "4.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JohnnyRockenstein/nodedirectuploader.git"
+  },
+  "author": "Dustin Horrock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnnyRockenstein/nodedirectuploader/issues"
+  },
+  "homepage": "https://github.com/JohnnyRockenstein/nodedirectuploader#readme"
+}
